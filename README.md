@@ -9,4 +9,4 @@ En aquest repositori hi consten dues carpetes:
 - `data`: Conté els fitxers necessaris per a l'execució adient del script *preprocessing.R*, ja que té tant la base de dades original com les traduccions dels noms dels països i d'altres variables
 
 El fitxer `TFG.pdf` és la memòria del treball i, per tant, el document principal.
-
+L'enllaç de l'app web Shiny es pot trobar tant en la memòria del treball com en el següent link:https://esther-amores.shinyapps.io/network-analysis/
