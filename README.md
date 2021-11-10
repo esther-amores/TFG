@@ -10,4 +10,6 @@ En aquest repositori hi consten dues carpetes:
 
 El fitxer `TFG.pdf` és la memòria del treball i, per tant, el document principal.
 
-L'enllaç de l'app web Shiny es pot trobar tant en la memòria del treball com en el següent link:https://esther-amores.shinyapps.io/network-analysis/
+L'enllaç de l'app web Shiny es pot trobar tant en la memòria del treball com en el següent link: 
+
+https://esther-amores.shinyapps.io/network-analysis/
