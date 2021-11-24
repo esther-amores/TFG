@@ -1,7 +1,10 @@
 # TFG
 Treball de Fi de Grau del Grau en Estadística Aplicada (UAB)
+
 **Títol:** Anàlisi de dades mediambientals mitjançant teoria de xarxes
+
 **Autora:** Esther Amores Gago
+
 **Data:** Juliol 2021
 
 En aquest repositori hi consten dues carpetes:
